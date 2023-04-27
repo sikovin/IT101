@@ -6,4 +6,8 @@ Kevin is my name
 
 **THIS is bold**
 
+
 Lets add something else
+
+This is an *italic*
+
