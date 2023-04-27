@@ -5,3 +5,5 @@
 Kevin is my name
 
 **THIS is bold**
+
+This is an *italic*
