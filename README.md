@@ -11,5 +11,3 @@ Lets add something else
 
 This is an *italic*
 
-Hello world!
-
